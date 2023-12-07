@@ -1,5 +1,0 @@
-Id= 41
-Suma= 340
-Bancnote folosite:10 20 50 
-In exemplare de: 15, 31, 22, 
-
